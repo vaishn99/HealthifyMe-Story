@@ -2,7 +2,7 @@
 <br />
 
 ## Note: <br />
-- This time,the following approach taken : instead of writting huge sentences, this time it is to the point.<br />
+- This time,the following approach taken : instead of writting huge sentences, this time ,it is to the point.<br />
 - After each section, Lessons is given.It contains some points that are discussed in the class,which I believe have a close connection with subject.<br />
 
 
@@ -15,7 +15,11 @@
 - B <br />
 
 
-# HealthifyMe -Story 
+# HealthifyMe -Story  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1478066407/mhcgzk7zzxmad1seli7m.png" width="350" title="hover text">
+</p>
 
 ## Motivation :
 
@@ -62,7 +66,8 @@ This time, the sales team found what the customers are willing to pay for. It wa
 - Funding there after: <br />
 HealthifyMe, in its journey, had received seven rounds of funding. In total, it is 25 million USD. The prominent investors who invested are NB Ventures, Dream incubator and Samsung NEXT. The following table describes the funders, year of funding, amount etc.<br />
 
-    # Investor list image
+   ![Screenshot from 2022-11-14 14-48-25](https://user-images.githubusercontent.com/113635391/201646053-898078db-fe01-4dbd-8f89-c8e28f0fafca.png)
+
 
 
 # Current state :<br />
@@ -72,7 +77,8 @@ Now the app operates across 300 cities with 25 million users, and it can give 15
 - Software as a service : <br />
 The app has a 4.6/5 rating in the play store and got the best app award for fitness/nutrition for multiple years. The following is a Linkedin post from the CTO and one of the cofounders of the company:<br />
 
-    ### Linkdin post
+ 
+![Screenshot from 2022-11-14 12-40-37](https://user-images.githubusercontent.com/113635391/201646017-d4805298-117c-44cb-bc60-4e7874115e60.png)
 
 - tech augmented coaching : <br />
 They Built an AI-powered conversational tool named RIA. The company claims this tool can answer 70 % of fitness/health questions.<br />
