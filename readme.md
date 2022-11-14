@@ -1,4 +1,12 @@
 
+
+
+
+<h1 align="center">Analysing the growth of a startup-HealthifyMe</h1>
+<h5 align="center">Vaishnav K.V</h5>
+<h5 align="center">vaishnavk@iisc.ac.in</h5>
+
+
 <br />
 
 ## Note: <br />
@@ -11,8 +19,7 @@
 - Based on what I felt in India, we take health matters/fitness very lightly. Maybe because we have many "other priorities" on top of fitness, let's assume the Life of an MTech student here(in IISc). At least I only get a little time to invest in my fitness. Not only in fitness, the sleeping cycle, food intake timings, etc. If there exists someone/app who can guide me /helps me to put things in place, then I will be ready to pay. Similar to me, There may be thousands of people from different backgrounds. Here is an open market, and HealthifyMe operates in this market.
 
 ## Lessons :<br />
-- A <br />
-- B <br />
+- Value creation<br />
 
 
 # HealthifyMe -Story  
@@ -31,8 +38,8 @@ Getting clarity on the problem, controllable, and what we should not care about 
 - Vashishth, a co-founder, still remembers the days when he made huge excel sheets about food-calorie stats. This preparation was challenging since there wasn't any app or website that provided this information. They realised the existence of a "Gap" in the market. This is how the idea of HealthifyMe came about. The initial works on HealthifyMe were done from their farmhouse in Delhi, and later they moved to Bangalore. <br />
 
 ## Lessons :<br />
-- A<br />
-- B<br />
+- An innovation starts as an idea, or a necessity <br />
+- Market analysis<br />
 
 ## Business model:<br />
 
@@ -41,8 +48,8 @@ Getting clarity on the problem, controllable, and what we should not care about 
 
 
 ## Lessons :
-- A<br />
-- B<br />
+- Need for a Business Plan.<br />
+- Scalability (This idea is easily scalable) <br />
 
 
 ## Growth and Challenges :<br />
@@ -68,7 +75,14 @@ HealthifyMe, in its journey, had received seven rounds of funding. In total, it 
 
    ![Screenshot from 2022-11-14 14-48-25](https://user-images.githubusercontent.com/113635391/201646053-898078db-fe01-4dbd-8f89-c8e28f0fafca.png)
 
-
+## Lessons :
+- Importance of building a solid team.<br />
+- Problem in between founders(People dynamics)<br />
+- Hire/retain the right people <br />
+- Importance of Market and Sales strategy<br />
+- Venture capitalists <br />
+- Not tracking cash flow <br />
+- Poor planning <br />
 
 # Current state :<br />
 
@@ -91,7 +105,15 @@ It has also registered itself as an Application Service Provider (ASP) with Cowi
 - Collabortation with Hospitals:<br /> 
 It has partnered with various hospitals like Manipal, Apollo etc., to prevent obesity and other diseases that originate from lifestyle.<br />
 
-I'm winding up this small analysis with the following  :<br />
+I'm winding up this small analysis with an excerpt from a blog post :<br />
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=While all question our size of market, or our execution ability or even our vision, we refused to believe in the naysayers. When they questioned whether India will buy a digital nutritionist, or that we can make a difference in lives of millions of others, we made it happen. We changed lives for the better and for good)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
+<br />
+
+" While all question our size of market, or our execution ability or even our vision, we refused to believe in the naysayers. When they questioned whether India will buy a digital nutritionist, or that we can make a difference in lives of millions of others, we made it happen. We changed lives for the better and for good.”<br />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                     - Vshisht's(co-founder)
+
 
 
 
